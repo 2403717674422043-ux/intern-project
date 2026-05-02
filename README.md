@@ -27,3 +27,11 @@ A simple and interactive to-do list application built using HTML, CSS, and JavaS
 - HTML  
 - CSS  
 - JavaScript  
+
+Employee Attrition Prediction model:
+Built a full-stack web application to predict employee attrition
+Developed backend using Flask to handle user input and model inference
+Designed a frontend form to collect employee details and display predictions
+Integrated a machine learning model trained using Scikit-learn for real-time predictions
+Implemented data processing and model deployment using joblib
+Created a complete pipeline from user input → prediction → result display
