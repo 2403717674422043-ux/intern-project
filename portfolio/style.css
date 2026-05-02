@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f4f4;
+}
+
+header {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+section {
+  padding: 20px;
+}
+
+.project {
+  background: white;
+  padding: 10px;
+  margin-top: 10px;
+}
